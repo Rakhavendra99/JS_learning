@@ -8,4 +8,4 @@ var person1 = {
     lastName: "Pravin"
 }
 var x = person.details.apply(person1,["NLK",22]);
-console.log(x)
+console.log(x) 
